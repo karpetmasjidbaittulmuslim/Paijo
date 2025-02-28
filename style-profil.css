@@ -53,7 +53,7 @@ h1 {
     justify-content: start;
     padding: 12px 20px;
     border-radius: 25px;
-    background: url('https://pin.it/1HEbvp53u') no-repeat center center/cover;
+    background: url('') no-repeat center center/cover;
     color: yellow;
     font-size: 18px;
     font-weight: bold;
@@ -67,11 +67,11 @@ h1 {
 }
 
 .whatsapp {
-    background: url('https://media.tenor.com/qDM9l8oUejUAAAAM/outer-space-veritasium.gif') no-repeat center center/cover;
+    background: url('htt') no-repeat center center/cover;
 }
 
 .marketplace {
-    background: url('https://media.tenor.com/qDM9l8oUejUAAAAM/outer-space-veritasium.gif') no-repeat center center/cover;
+    background: url('ht') no-repeat center center/cover;
 }
 
 footer {
@@ -81,5 +81,5 @@ footer {
 
 footer a {
     color: white;
-    text-decoration: underline;
+    text-decoration: none;
 }
